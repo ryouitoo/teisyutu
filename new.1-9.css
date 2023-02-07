@@ -79,20 +79,23 @@ footer {
    height: auto
  }
  .box {
-  width: auto;
+  width: 90%;
   height: auto;
   margin: 20px 20px auto;
  }
  .box-1{
-  width: 90%;
+  width: auto;
+  height: 150px;
     margin: 0 auto;
  }
  .box-2{
-   width: 90%;
+   width: auto;
+   height: 150px;
     margin: 0 auto;
  }
  .box-3{
-   width: 90%;
+   width: auto;
+   height: 150px;
     margin: 0 auto;
  }
  .box:last-child{
